@@ -1,4 +1,4 @@
-To Speed Up Development
+### To Speed Up Development
 
 - Visual Assets
 - Game Builder Tools
@@ -7,7 +7,7 @@ To Speed Up Development
 - Systems and Tools
 - Polish
 
-
+#
 
 - Game Engine
 - Programming
@@ -21,6 +21,8 @@ To Speed Up Development
 - Level Systems
 - PathFinding
 - AI
+
+#
 
 - State Machines
 - Splines
